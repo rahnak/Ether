@@ -40,6 +40,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Interfaces\IAnimeRepository.cs" />
+    <Compile Include="Interfaces\IDataAccess.cs" />
+    <Compile Include="Interfaces\IEntity.cs" />
+    <Compile Include="Interfaces\IMangaRepository.cs" />
+    <Compile Include="Interfaces\ITvShowRepository.cs" />
+    <Compile Include="Models\Anime.cs" />
+    <Compile Include="Models\Manga.cs" />
+    <Compile Include="Models\TvShow.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
