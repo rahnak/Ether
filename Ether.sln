@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ether.Data", "Ether.Data\Ether.Data.csproj", "{C8C4FFEE-5463-49C0-A8BE-A8C3E7400F18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ether.Data.SQLite", "Ether.Data.SQLite\Ether.Data.SQLite.csproj", "{6E847702-7EA4-4C1D-81B4-BC66EF24A6EB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ether.Data.Dapper.SQLite", "Ether.Data.Dapper.SQLite\Ether.Data.Dapper.SQLite.csproj", "{6E847702-7EA4-4C1D-81B4-BC66EF24A6EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
